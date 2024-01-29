@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MohamedBadr
-- 👀 I’m interested in Embedded Systems and Machine Learning
+- 👀 Embedded Systems and DeepLearning Learning enthusiast
 - 🌱 I’m currently learning  Electronics and Communication Engineering 
 - 💞️ Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
 - 📫 How to reach me Gamil: badr89270@gmail.com
