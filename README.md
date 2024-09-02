@@ -6,17 +6,17 @@
 - 📫 How to reach me Gamil: badr89270@gmail.com
 --->
 
-<h1 align= "center"><b>👋 Hi, I’m Mohamed Badr :earth_asia:</b></h1>
+<h1 align= "center"><b>👋 Hi, I’m Mohamed Badr </b></h1>
 
 
 <p align="center">
-👀 I’m currently learning  Electronics and Communication Engineering Embedded Systems and DeepLearning Learning enthusiast 
+📌 I’m currently learning  Electronics and Communication Engineering Embedded Systems and DeepLearning Learning enthusiast 
 </p>
 <p align="center">
-💞️ Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
+📌 Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
 </p>
 
-<h3 align="center"> Take a look at me Resume: <a href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing">Mohamed Badr Resume</a> </h3>
+<h3 align="center">👀 Take a look at me Resume: <a href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing">Mohamed Badr Resume</a> </h3>
  
  
 <!---
