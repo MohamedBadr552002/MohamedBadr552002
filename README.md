@@ -15,9 +15,15 @@
 <p align="center">
 📌 Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
 </p>
+<div align="center">
+<h3 >👀 Take a look at me Resume:  </h3>
+<h6> </h6><a  href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing" >Mohamed Badr Resume</a> </h6>
+</div> 
 
-<h3 align="center">👀 Take a look at me Resume: <a href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing">Mohamed Badr Resume</a> </h3>
- 
+
+
+
+
  
 <!---
 
