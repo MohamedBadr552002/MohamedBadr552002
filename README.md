@@ -17,7 +17,7 @@
 </p>
 <div align="center">
 <h3 >👀 Take a look at me Resume:  </h3>
-<h6> </h6><a  href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing" >Mohamed Badr Resume</a> </h6>
+<h6> <a  href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing ">Mohamed Badr Resume</a> </h6>
 </div> 
 
 
