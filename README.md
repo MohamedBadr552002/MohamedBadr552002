@@ -16,11 +16,68 @@
 📌 Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
 </p>
 <div align="center">
-<h3 >👀 Take a look at me Resume:  </h3>
+<h2 >👀 Take a look at me Resume:  </h2>
 <h6> <a  href="https://drive.google.com/file/d/1kbc_AkydubgkVp03D9_bmsTmxDigwcZH/view?usp=sharing ">Mohamed Badr Resume</a> </h6>
 </div> 
 
 
+<div align="center" >
+   <h2> Projects: </h2>
+
+ 
+  <div> 
+    <h3> Door Lock Indication Project Based on Autosar </h3>
+    <p> 
+    Delivered software components for monitoring door states and triggering corresponding indications within an automotive system.
+    Configured AUTOSAR OS and generated ARXML files to manage task scheduling for optimal system performance.
+    </p>
+    <h6><a href= "https://github.com/MohamedBadr552002/AutoSar/tree/main/Projects/AUTOSAR_Door_Lock_Project"> Project Link </a> </h6>
+  </div>
+
+<div>
+ <h3> pintOS Operating System </h3>
+ <p>
+  Contributed significantly to the successful completion of the first two phases of the project, collaborating effectively within a team to achieve key requirements.
+  
+  Optimized a Multilevel Feedback Queue (MLFQ) algorithm to efficiently schedule multiple threads. Additionally, developed system call handling mechanisms to enable user program execution from outside the kernel.
+ </p>
+  <h6><a href= "https://github.com/MohamedBadr552002/pintOS"> Project Link </a> </h6>
+</div>
+
+<div>
+ <h3> Unix‑like simple shell </h3>
+ <p>
+ Design and Implement Unix shell program Using C Programing Language and Unix system call on Ubuntu machine to execute internal shell command like (exit), A command with no arguments like (ls, cd, rm), A command with arguments like (ls -l), A command, with or without arguments, executed in the background using (&), Shell builtin commands like (echo, cd) and Expression evaluation like (export)
+ </p>
+ <h6><a href= "https://github.com/MohamedBadr552002/Unix-simple-shell"> Project Link </a> </h6>
+</div>
+
+<div>
+   <h3> Customized Real-Time Operating System</h3>
+   <p>
+   Implement Real-time Operating System to be Online Static Priority, Pre-emtive, Round-robin Scheduling Time-shared Algorithm scheduled between four task’s states.
+    
+   Designed and prepared Algorithm to Make Context Switching and Scheduling between tasks based on its priority in shortest time possible.
+
+   Solved the priority inversion By priority inheritance mechanism and Deadlock problems.
+    
+   </p>
+   <h6><a href= "https://github.com/MohamedBadr552002/Embedded-Systems/tree/main/MY_OWN_RTOS"> Project Link </a> </h6>
+</div>
+
+<div>
+  <h3> Automatic Smart Vehicles Parking  </h3>
+  <p>
+    Designed and Developed a parking system for vechiles for privacy you must enter the garage with ID read from QR Code (System Admin will be responsible for setting IDs for Clients), there is a LCD to interface with driver to tell him show your id also there are 7-segments to indicate the number of avalible slots. 
+   
+  </p>
+  <h6><a href= "https://github.com/MohamedBadr552002/Embedded-Systems/tree/main/Projects/Secondterm"> Project Link </a> </h6>
+
+ 
+</div>
+
+  
+</div>
 
 
 
