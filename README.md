@@ -24,6 +24,13 @@
 <div align="center" >
    <h2> Projects: </h2>
 
+   <div>
+      <h3>Malaria Detection Model </h3>
+      <p>
+Implement Deep Learning Model using neural networks To decide if the tested blood Sample is infected by Malaria or not
+      </p>
+      <h6><a href= "https://github.com/MohamedBadr552002/DeepLearning_For_computerVision/tree/main/3_Malaria_Detection"> Project Link </a> </h6>
+   </div>
  
   <div> 
     <h3> Door Lock Indication Project Based on Autosar </h3>
