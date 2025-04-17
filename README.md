@@ -10,7 +10,7 @@
 
 
 <p align="center">
-📌 I’m currently learning  Electronics and Communication Engineering Embedded Systems and DeepLearning Learning enthusiast 
+📌 I’m currently learning  Electronics and Communication Engineering Embedded Systems and Deep Learning enthusiast 
 </p>
 <p align="center">
 📌 Seeking an embedded systems internship to apply technical skills in microcontroller programming, and hardware-software integration
