@@ -19,13 +19,49 @@ Passionate and driven individual with a strong interest in embedded systems and 
 </div> 
 
 
-<div align="center" >
-   <h2> Projects: </h2>
+<div  >
+   <h2 align="center" > 🧑‍💻Projects: </h2>
+
+
+
+   <div>
+      <h3> Aircraft Detection System - Computer Vision </h3>
+      <p>Engineered an end-to-end Aircraft Detection System using an optimized YOLOv11 deep learning model, achieving 94.2%
+mAP and real-time performance for object detection in satellite and drone imagery via an optimized inference pipeline.
+      
+         
+   Architected a production-grade RESTful API using FastAPI with Docker and CI/CD, supporting single image, video
+stream, and batch processing to handle 1000+ daily detection requests, Providing API key authentication, and
+automated resource management.
+   </p>
+      <h6><a href= "https://github.com/MohamedBadr552002/Aircraft-detection-satellite-view"> Project Link </a> </h6>
+   </div>
+
+
+   <div>
+      <h3>Telcom Customer Churn Classification </h3>
+      <p>
+Developed end-to-end customer churn prediction system deploying Random Forest, XGBoost, and ANN models via
+production-ready FastAPI microservice with Docker containerization, API key authentication, and automated
+preprocessing pipelines using joblib-serialized transformers
+
+         
+Engineered feature engineering pipeline creating tenure groups, charge categorizations, and service bundles from telecom
+customer data, achieving deployable ML models with probability scoring capabilities
+      </p>
+      <h6><a href= "https://github.com/MohamedBadr552002/MachineLearningAndDeepLearning/tree/main/Telcom_Customer_Churn_Class"> Project Link </a> </h6>
+   </div>
+
 
    <div>
       <h3>Malaria Detection Model </h3>
       <p>
-Implement Deep Learning Model using neural networks To decide if the tested blood Sample is infected by Malaria or not
+Developed a convolutional neural network–based pipeline for automated detection of malaria-infected blood cells vs.
+healthy ones, integrating preprocessing, data augmentation, and model evaluation achieving high classification accuracy.
+
+         
+Leveraged transfer learning and fine-tuning of pre-trained CNN architectures to improve performance, while optimizing
+for model generalization and robustness
       </p>
       <h6><a href= "https://github.com/MohamedBadr552002/DeepLearning_For_computerVision/tree/main/3_Malaria_Detection"> Project Link </a> </h6>
    </div>
