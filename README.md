@@ -13,11 +13,9 @@
 Passionate and driven individual with a strong interest in embedded systems and the application of machine learning and deep learning technologies. I'm dedicated to exploring how these fields can be combined to create innovative, real-world solutions. I am actively studying and applying these concepts to build intelligent systems that can make a tangible impact.
 </p>
 
-<div align="center">
-<h2 >👀 Take a look at me Resume:  </h2>
-<h6> <a  href="https://drive.google.com/drive/u/1/folders/1j8PST8QL3KBYEW28kp827Pm6gQy7nI3B">Mohamed Badr Resume</a> </h6>
-</div> 
 
+
+----------
 
 <div  >
    <h2 align="center" > 🧑‍💻Projects: </h2>
@@ -117,8 +115,30 @@ for model generalization and robustness
  
 </div>
 
-  
+----------
 </div>
+
+<div align="center">
+<h2 >🌐 Find Me:  </h2>
+<p align="center">
+
+  <!-- Gmail -->
+  <a href="mailto:mohamedbadr552002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-badr-32621b244/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+
+  <!-- Tableau -->
+  <a href="https://public.tableau.com/app/profile/mohamed.badr5620" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="35"/>
+  </a>
+
+</p>
+</div> 
 
 
 
