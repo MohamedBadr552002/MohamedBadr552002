@@ -20,10 +20,20 @@ Passionate and driven individual with a strong interest in embedded systems and 
 <div  >
    <h2 align="center" > 🧑‍💻Projects: </h2>
 
+   <div>
+         <h3> 🤖 Medical Assistant Chatbot - End-to-End LLM Project </h3>
+         <p>Architected and developed a full-stack medical chatbot application using FastAPI, Streamlit, and SQLAlchemy, supporting multi-user authentication, real-time WebSocket communication, and conversation management with 100+ concurrent users.
+         
+            
+   Integrated LLM models from HuggingFace Transformers (Mistral-7B) with advanced prompt engineering to generate contextual medical responses, including symptom analysis and risk assessment for medical inquiries.
+      </p>
+         <h6><a href= "https://github.com/MohamedBadr552002/Medical-Assistant-Chatbot"> Project Link </a> </h6>
+   </div>
+   
 
 
    <div>
-      <h3> Aircraft Detection System - Computer Vision </h3>
+      <h3> 📷 Aircraft Detection System - Computer Vision </h3>
       <p>Engineered an end-to-end Aircraft Detection System using an optimized YOLOv11 deep learning model, achieving 94.2%
 mAP and real-time performance for object detection in satellite and drone imagery via an optimized inference pipeline.
       
@@ -37,7 +47,7 @@ automated resource management.
 
 
    <div>
-      <h3>Telcom Customer Churn Classification </h3>
+      <h3> 📊 Telcom Customer Churn Classification </h3>
       <p>
 Developed end-to-end customer churn prediction system deploying Random Forest, XGBoost, and ANN models via
 production-ready FastAPI microservice with Docker containerization, API key authentication, and automated
@@ -52,7 +62,7 @@ customer data, achieving deployable ML models with probability scoring capabilit
 
 
    <div>
-      <h3>Malaria Detection Model </h3>
+      <h3> 🧪 Malaria Detection Model </h3>
       <p>
 Developed a convolutional neural network–based pipeline for automated detection of malaria-infected blood cells vs.
 healthy ones, integrating preprocessing, data augmentation, and model evaluation achieving high classification accuracy.
@@ -65,7 +75,7 @@ for model generalization and robustness
    </div>
  
   <div> 
-    <h3> Door Lock Indication Project Based on Autosar </h3>
+    <h3> 🚗 Door Lock Indication Project Based on Autosar </h3>
     <p> 
     Delivered software components for monitoring door states and triggering corresponding indications within an automotive system.
     Configured AUTOSAR OS and generated ARXML files to manage task scheduling for optimal system performance.
@@ -74,7 +84,7 @@ for model generalization and robustness
   </div>
 
 <div>
- <h3> pintOS Operating System </h3>
+ <h3> ⚙️ pintOS Operating System </h3>
  <p>
   Contributed significantly to the successful completion of the first two phases of the project, collaborating effectively within a team to achieve key requirements.
   
@@ -84,7 +94,7 @@ for model generalization and robustness
 </div>
 
 <div>
- <h3> Unix‑like simple shell </h3>
+ <h3> 🛠️ Unix‑like simple shell </h3>
  <p>
  Design and Implement Unix shell program Using C Programing Language and Unix system call on Ubuntu machine to execute internal shell command like (exit), A command with no arguments like (ls, cd, rm), A command with arguments like (ls -l), A command, with or without arguments, executed in the background using (&), Shell builtin commands like (echo, cd) and Expression evaluation like (export)
  </p>
@@ -92,7 +102,7 @@ for model generalization and robustness
 </div>
 
 <div>
-   <h3> Customized Real-Time Operating System</h3>
+   <h3> ⌚ Customized Real-Time Operating System</h3>
    <p>
    Implement Real-time Operating System to be Online Static Priority, Pre-emtive, Round-robin Scheduling Time-shared Algorithm scheduled between four task’s states.
     
@@ -105,7 +115,7 @@ for model generalization and robustness
 </div>
 
 <div>
-  <h3> Automatic Smart Vehicles Parking  </h3>
+  <h3> 🅿️ Automatic Smart Vehicles Parking  </h3>
   <p>
     Designed and Developed a parking system for vechiles for privacy you must enter the garage with ID read from QR Code (System Admin will be responsible for setting IDs for Clients), there is a LCD to interface with driver to tell him show your id also there are 7-segments to indicate the number of avalible slots. 
    
